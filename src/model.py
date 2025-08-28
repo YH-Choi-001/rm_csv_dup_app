@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Pentastic Security Limited. All rights reserved.
+
 # @brief An immutable header.
 class Header:
     def __init__(self, column_names: tuple[str]):

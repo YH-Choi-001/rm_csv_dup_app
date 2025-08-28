@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Pentastic Security Limited. All rights reserved.
+
 from typing import Callable # for type hints for callbacks
 from typing import Literal
 
