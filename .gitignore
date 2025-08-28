@@ -1,0 +1,10 @@
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Python cache
+__pycache__
+
+# Do not commit testing data to the repo
+*.csv
+*.nessus
